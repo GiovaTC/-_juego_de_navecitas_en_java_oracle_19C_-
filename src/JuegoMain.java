@@ -7,13 +7,13 @@ public class JuegoMain {
 
         GamePanel panel = new GamePanel();
 
-     //   ventana.add(panel);
+        ventana.add(panel);
         ventana.setSize(800,600);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         ventana.setLocationRelativeTo(null);
         ventana.setVisible(true);
 
-     //   panel.startGame();
+        panel.startGame();
 
     }
 }
