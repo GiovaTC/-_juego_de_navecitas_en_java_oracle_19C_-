@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/56fcba53-4f70-434f-8fde-b4746d9c4efa" />  
 
+<img width="2546" height="1078" alt="image" src="https://github.com/user-attachments/assets/4f0d4e96-cc24-4980-aaea-c297169bf77a" />    
+
 ```
 Solución completa, funcional y pensada para entorno real con:
 
